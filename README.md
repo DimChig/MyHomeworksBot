@@ -3,7 +3,7 @@
 **myHomeworksBot** is a **Telegram bot** designed to solve a long-standing problem in Ukrainian schools: the inefficiency of paper diaries for recording homework. Traditionally, every student had to write homework in their own paper diary, leading to issues with incomplete or incorrect entries and making it difficult for students who missed school to stay updated. With myHomeworksBot, **only one student or teacher needs to input homework**, and it is instantly synchronized for everyone in the class. This innovation has transformed how schools manage and share academic information, with my own school completely replacing paper diaries with this system.
 
 ---
-13 yo me presenting this project: https://www.youtube.com/watch?v=br-fi5QevsQ
+13 years old me presenting this project: https://www.youtube.com/watch?v=br-fi5QevsQ
 
 ---
 
